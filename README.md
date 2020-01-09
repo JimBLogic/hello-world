@@ -1,3 +1,4 @@
 # hello-world
 Testing Github
-This is now part of read-me edits instead of the master branch.
+
+This is was part of read-me edits instead of the master branch, but it's back on master branch now.
